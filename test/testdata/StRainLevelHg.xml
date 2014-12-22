@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--  DBUnit flatXml DataFile  -->
+<dataset>
+
+
+	  <ST_RAIN_LEVEL_HG 
+			ID='088' 
+			ST_RAIN_LEVEL_TYPE='StRainLevelType268' 
+			ST_RAIN_LEVEL_INFO='' 
+	  />	
+  
+</dataset>

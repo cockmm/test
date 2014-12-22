@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--  DBUnit flatXml DataFile  -->
+<dataset>
+
+
+	  <ST_WATER_POTENTIAL_HG 
+			ID='853' 
+			ST_WARTER_POTENTIAL_TYPE='' 
+			ST_WARTER_POTENTIAL_CODE='' 
+	  />	
+  
+</dataset>

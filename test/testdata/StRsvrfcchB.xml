@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--  DBUnit flatXml DataFile  -->
+<dataset>
+
+
+	  <ST_RSVRFCCH_B 
+			STCD='Stcd262' 
+			RSVRTP='6' 
+			DAMEL='924' 
+			CKFLZ='563' 
+			DSFLZ='631' 
+			NORMZ='700' 
+			DDZ='342' 
+			ACTZ='541' 
+			TTCP='694' 
+			FLDCP='934' 
+			ACTCP='676' 
+			DDCP='028' 
+			HHRZ='135' 
+			HMXW='913' 
+			HHRZTM='2013-02-19 11:07:03.332' 
+			HMXINQ='349' 
+			RSTDR='932' 
+			HMXINQTM='2013-02-19 11:07:03.332' 
+			HMXOTQ='195' 
+			HMXOTQTM='2013-02-19 11:07:03.332' 
+			HLRZ='950' 
+			HLRZTM='2013-02-19 11:07:03.332' 
+			HMNINQ='239' 
+			HMNINQTM='2013-02-19 11:07:03.332' 
+			LAZ='219' 
+			SFQ='221' 
+			MODITIME='2013-02-19 11:07:03.332' 
+	  />	
+  
+</dataset>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--  DBUnit flatXml DataFile  -->
+<dataset>
+
+
+	  <ST_RVFCCH_B 
+			STCD='Stcd160' 
+			LDKEL='502' 
+			RDKEL='396' 
+			WRZ='948' 
+			WRQ='535' 
+			GRZ='991' 
+			GRQ='029' 
+			FLPQ='772' 
+			OBHTZ='731' 
+			OBHTZTM='2013-02-19 11:07:03.803' 
+			IVHZ='034' 
+			IVHZTM='2013-02-19 11:07:03.803' 
+			OBMXQ='541' 
+			OBMXQTM='2013-02-19 11:07:03.804' 
+			IVMXQ='456' 
+			IVMXQTM='2013-02-19 11:07:03.804' 
+			HMXS='584' 
+			HMXSTM='2013-02-19 11:07:03.804' 
+			HMXAVV='907' 
+			HMXAVVTM='2013-02-19 11:07:03.804' 
+			HLZ='807' 
+			HLZTM='2013-02-19 11:07:03.804' 
+			HMNQ='041' 
+			HMNQTM='2013-02-19 11:07:03.804' 
+			TZA='551' 
+			TAQ='508' 
+			LAZ='713' 
+			LAQ='738' 
+			SFZ='845' 
+			SFQ='950' 
+			MODITIME='2013-02-19 11:07:03.804' 
+	  />	
+  
+</dataset>

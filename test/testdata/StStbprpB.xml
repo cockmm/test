@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--  DBUnit flatXml DataFile  -->
+<dataset>
+
+
+	  <ST_STBPRP_B 
+			STCD='Stcd258' 
+			STNM='Stnm535' 
+			RVNM='Rvnm516' 
+			HNNM='Hnnm149' 
+			BSNM='Bsnm161' 
+			LGTD='714' 
+			LTTD='452' 
+			STLC='Stlc257' 
+			ADDVCD='581' 
+			DTMNM='Dtmnm497' 
+			DTMEL='063' 
+			DTPR='013' 
+			STTP='41' 
+			FRGRD='5' 
+			ESSTYM='010' 
+			BGFRYM='208' 
+			ATCUNIT='Atcunit882' 
+			ADMAUTH='Admauth946' 
+			LOCALITY='Locality37' 
+			STBK='0' 
+			STAZT='425' 
+			DSTRVM='519' 
+			DRNA='432' 
+			PHCD='Phcd14' 
+			USFL='4' 
+			COMMENTS='Comments249' 
+			MODITIME='2013-02-19 11:07:04.258' 
+	  />	
+  
+</dataset>

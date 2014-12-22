@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--  DBUnit flatXml DataFile  -->
+<dataset>
+
+
+	  <ST_RIVER_R 
+			STCD='Stcd597' 
+			TM='2013-02-19 11:07:02.834' 
+			Z='321' 
+			Q='704' 
+			XSA='427' 
+			XSAVV='736' 
+			XSMXV='392' 
+			FLWCHRCD='7' 
+			WPTN='7' 
+			MSQMT='4' 
+			MSAMT='9' 
+			MSVMT='7' 
+	  />	
+  
+</dataset>

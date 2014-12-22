@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--  DBUnit flatXml DataFile  -->
+<dataset>
+
+
+	  <ST_STATION_TYPE_HG 
+			ID='309' 
+			ST_STATION_TYPE_NAME='StStationTypeName615' 
+			ST_STATION_TYPE_CODE='29' 
+	  />	
+  
+</dataset>

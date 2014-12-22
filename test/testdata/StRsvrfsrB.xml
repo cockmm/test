@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--  DBUnit flatXml DataFile  -->
+<dataset>
+
+
+	  <ST_RSVRFSR_B 
+			STCD='Stcd752' 
+			BGMD='644' 
+			EDMD='176' 
+			FSLTDZ='865' 
+			FSLTDW='457' 
+			FSTP='6' 
+			MODITIME='2013-02-19 11:07:03.557' 
+	  />	
+  
+</dataset>

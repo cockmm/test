@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--  DBUnit flatXml DataFile  -->
+<dataset>
+
+
+	  <ST_PPTN_R 
+			STCD='Stcd483' 
+			TM='2013-02-19 11:07:02.344' 
+			DRP='260' 
+			INTV='806' 
+			PDR='455' 
+			DYP='176' 
+			WTH='5' 
+	  />	
+  
+</dataset>

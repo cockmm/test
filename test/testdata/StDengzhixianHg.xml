@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--  DBUnit flatXml DataFile  -->
+<dataset>
+
+
+	  <ST_DENGZHIXIAN_HG 
+			ID='510' 
+			HG_TM='2013-02-19 11:07:02.089' 
+			HG_DZX_TYPE='984' 
+			HG_REALTIME='896' 
+			HG_RESULT='992' 
+			HG_PROCESS='234' 
+	  />	
+  
+</dataset>
